@@ -1,6 +1,6 @@
 {
-  "name": "randomquotes",
-  "version": "1.0.0",
+  "name": "randomquotesbyanton",
+  "version": "1.5.0",
   "description": "random quotes",
   "main": "index.js",
   "scripts": {
